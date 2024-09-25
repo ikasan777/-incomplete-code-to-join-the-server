@@ -75,7 +75,7 @@ CAPTCHA（特にhCaptchaやreCAPTCHA）は、ユーザーがボットではな�
 
 2. 必要な依存関係をインストールするにゃ：
    ```
-   npm install
+   npm install chalk gradient-string discord.js-selfbot-v13 @zennolab_com/capmonstercloud-client
    ```
 
 3. `config.json`ファイルを作成して、以下の内容を設定するにゃ：
